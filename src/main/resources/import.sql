@@ -1,0 +1,1 @@
+INSERT INTO tbl_user (id,dob,email,firstname,lastname,username, password) VALUES (1001,TO_DATE('12/01/2016 14:08:25', 'MM/DD/YYYY HH24:MI:SS'),'ananta.890@gmail.com','diganta','mohapatra','digi','$2a$04$I9Q2sDc4QGGg5WNTLmsz0.fvGv3OjoZyj81PrSFyGOqMphqfS2qKu');
