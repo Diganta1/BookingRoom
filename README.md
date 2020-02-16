@@ -2,6 +2,10 @@
 This is a room booking service
 
 # Setup
+
+ ## Swagger URL:
+http://localhost:8080/swagger-ui.html#/booking-controller
+
  ## Database components 
 
 (http://localhost:8080/h2-console/):
